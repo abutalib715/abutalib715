@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **abutalib715/abutalib715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Abu Talib</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=abutalib715&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Backend Developer
+  <a href="https://www.showwcase.com/abutalib715">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+ <img alt="GIF" src="https://github.com/abutalib715/abutalib715/blob/main/banner.gif?raw=true" />
+</div>
