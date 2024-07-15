@@ -11,29 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<h1 align="center">Hi 👋, I'm Md. Anik Khan</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 -->
-<img align="right" alt="Coding" width="400" src="https://github.com/abutalib715/abutalib715/blob/main/banner.gif?raw=true">
+  <h1 align="center" style="font-size: 50px">Hi there, I'm Abu Talib 👋</h1>
+<h2 align="center">A passionate backend focused developer from Bangladesh</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abutalib715&label=Profile%20views&color=0e75b6&style=flat" alt="abutalib715" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abutalib715" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="50%" src="https://github.com/abutalib715/abutalib715/blob/main/banner.gif?raw=true">
 
-- 🔭 I’m currently working on **ISP Billing Software**
+I have been playing with web based technologies since 2018. Currently, I work at **SuperbNexus Limited** as a **Software Engineer**.
 
-- 🌱 I’m currently learning **about the backend**
+Before that, I worked as an Associate Developer and then as a Software Engineer at **Deelko Limited**. 
 
-- 👯 I’m looking to collaborate on **Javascript,Typescript,ReactJs,& NextJs**
-
-- 👨‍💻 All of my projects are available at [https://anikportfolio.web.app/](https://anikportfolio.web.app/)
-
-- 💬 Ask me about **Frontend Developemt**
-
-- 📫 How to reach me **abutalib715@gmail.com**
-
-- ⚡ Fun fact **I love to travel different places,meet new people,and create lasting memories**
+Some of my key projects are: ISP Billing ERP (SaaS), Textile ERP, RMC Management, POS Inventory, School Management, and Ledger Book.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,19 +31,8 @@ Here are some ideas to get you started:
   <img alt="Gmail" src="https://camo.githubusercontent.com/7e309a69e7ba420e841844b03cf3cb6beec3915d10a51fac6463cfaf230a7e8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abu Talib</h1>
-<h2 align="center">
-  Backend Developer <br>
-  <img src="https://komarev.com/ghpvc/?username=abutalib715&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  <a href="https://www.showwcase.com/abutalib715" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<div align="center">
- <img alt="GIF" src="https://github.com/abutalib715/abutalib715/blob/main/banner.gif?raw=true" />
-</div>
 
- <hr/>
+ <br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -64,7 +42,6 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
